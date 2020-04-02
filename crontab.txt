@@ -1,1 +1,0 @@
-* * * * * python path/get_date.py >> path/saida.txt
